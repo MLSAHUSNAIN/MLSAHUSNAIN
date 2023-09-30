@@ -1,0 +1,269 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hassnain Ahmed - CV</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f0f0f0;
+             border: 5px solid Black ;
+            padding: 20px;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            background-color: white;
+            padding: 20px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            border-radius: 5px;
+        }
+
+        .header {
+            text-align: center;
+            background-color:#f0f0f0;
+            color: Black;
+            padding: 20px;
+            border-radius: 5px 5px 0 0;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+            margin-top: 20px;
+        }
+
+        table, th, td {
+            border: 1px solid #ddd;
+        }
+
+        th, td {
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f2f2f2;
+        }
+
+        .section-title {
+            font-size: 20px;
+            font-weight: bold;
+            margin-top: 20px;
+        }
+
+        .section-content {
+            margin-top: 10px;
+
+        }
+
+    </style>
+</head>
+<body>
+    <div class="container">
+        <div class="header container">
+               <img src="C:/Users/capta/OneDrive/Documents/Untitled.jpg" alt="Your Image Description" style="float: left; margin-right: 20px;" width="150" height="130">
+            <h1> Syed Hassnain Ahmed </h1>
+            <p>Graphic Designer | Web Developer | Machine Learning Enthusiast</p>
+        </div>
+
+       <div class="container">
+        <h2>Personal Information</h2>
+        <table>
+            <tr>
+                <th>Father Name</th>
+                <td colspan="2">Masood Ashiq Hussain</td>
+            </tr>
+            <tr>
+                <th>Phone</th>
+                <td colspan="2">+92 3220548170</td>
+            </tr>
+            <tr>
+                <th>Mobile</th>
+                <td colspan="2">+92 3185189180</td>
+            </tr>
+            <tr>
+                <th>Email</th>
+                <td colspan="2">hackingnetwork74@gmail.com</td>
+            </tr>
+            <tr>
+                <th>LinkedIn</th>
+                <td colspan="2"><a href="www.linkedin.com/in/husnain-ahmed-4521a721a">LinkedIn Profile</a></td>
+            </tr>
+            <tr>
+                <th>Portfolio</th>
+                <td colspan="2"><a href="https://www.yourportfolio.com/">Portfolio Website</a></td>
+            </tr>
+        </table>
+
+        </div>
+
+      <div class="container">
+    <h2 class="container-title">About Me</h2>
+    <table>
+        <tr>
+            <td colspan="2">
+                As a computer sciences student and graphic designer, I am always seeking out new challenges and ways to push the boundaries of what is possible. I am continually looking for innovative ways to approach projects and love working collaboratively with others to get the job done. I strive to create visually stunning designs that leave a lasting impression on those who view them, while also ensuring that my work is both functional and practical.
+            </td>
+        </tr>
+    </table>
+</div>
+
+
+        <div class="container">
+            <h2 class="container-title">Education</h2>
+        <table>
+            <tr>
+                <th>Educational Institution</th>
+                <th>Status</th>
+            </tr>
+            <tr>
+                <td> The Millennium University College TMUC</td>
+                <td>In Progress</td>
+            </tr>
+            <tr>
+                <td>WAH COLLEGE OF ACCOUNTANCY</td>
+                <td>Complete</td>
+            </tr>
+            <tr>
+                <td>FG PUBLIC SCHOOL NO.2 WAH CANTT</td>
+                <td>Complete</td>
+            </tr>
+        </table>
+        </div>
+
+       <div class="container">
+            <h2 class="container-title">Skills</h2>
+            <table>
+                <tr>
+                    <th>Skill</th>
+                    <th>Proficiency</th>
+                </tr>
+                <tr>
+                    <td>Database Design</td>
+                    <td>10/10</td>
+                </tr>
+                <tr>
+                    <td>Photoshop</td>
+                    <td>10/10</td>
+                </tr>
+                <tr>
+                    <td>Illustrator</td>
+                    <td>10/10</td>
+                </tr>
+                <tr>
+                    <td>Adobe InDesign</td>
+                    <td>10/10</td>
+                </tr>
+                <tr>
+                    <td>Interactive Media</td>
+                    <td>10/10</td>
+                </tr>
+                <tr>
+                    <td>Machine Learning</td>
+                    <td>10/10</td>
+                </tr>
+                <tr>
+                    <td>Microsoft Office Expert</td>
+                    <td>10/10</td>
+                </tr>
+                <tr>
+                    <td>WordPress</td>
+                    <td>10/10</td>
+                </tr>
+                <tr>
+                    <td>Instructional Design and Technology</td>
+                    <td>10/10</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="container">
+            <h2 class="container-title">Experience</h2>
+            <table>
+                <tr>
+                    <th>Position</th>
+                    <th>Company/Organization</th>
+                    <th>Duration</th>
+                </tr>
+                <tr>
+                    <td>Graphic Designer</td>
+                    <td>Freelancer.com, Pakistan</td>
+                    <td>Current</td>
+                </tr>
+                <tr>
+                    <td>Huawei Student Developer</td>
+                    <td>Huawei</td>
+                    <td>Current</td>
+                </tr>
+                <tr>
+                    <td>Microsoft Student Ambassador</td>
+                    <td>Microsoft</td>
+                    <td>Current</td>
+                </tr>
+                <tr>
+                    <td>General Secretary</td>
+                    <td>Youth Parliament of Pakistan</td>
+                    <td>Current</td>
+                </tr>
+                <tr>
+                    <td>Student Brand Ambassador</td>
+                    <td>NFLPY</td>
+                    <td>Aug 2021 - Dec 2021</td>
+                </tr>
+            </table>
+        </div>
+
+        <div class="container">
+            <h2 class="container-title">Certification</h2>
+            <ul class="container-content">
+              <table>
+            <tr>
+                <th>Certification</th>
+                <th>Institution Issue</th>
+            </tr>
+            <tr>
+                <td>Adobe Certified</td>
+                <td>Certiport</td>
+            </tr>
+            <tr>
+                <td>Microsoft Office Expert</td>
+                <td>Certiport</td>
+            </tr>
+            <tr>
+                <td>Certified in National Finance Literacy Youth Program</td>
+                <td>Project of SBP</td>
+            </tr>
+            <tr>
+                <td>Graphic Designer</td>
+                <td>Digiskills Certified</td>
+            </tr>
+            <tr>
+                <td>Instructional Design and Technology</td>
+                <td>Digiskills Certified</td>
+            </tr>
+            <tr>
+                <td>Information Security and Attack Vector</td>
+                <td>University System of Maryland, 2021</td>
+            </tr>
+            <tr>
+                <td>CS50: Introduction to Computer Sciences</td>
+                <td>HarvardX</td>
+            </tr>
+        </table>
+        </div>
+
+        <div class="container">
+              <h2 class="container-title">Interests & Hobbies</h2>
+            <table>
+                <tr>
+                    <td colspan="4">Cricket, Reading, Traveling, Gaming</td>
+                </tr>
+            </table>
+        </div>
+    </div>
+</body>
+</html>
+
